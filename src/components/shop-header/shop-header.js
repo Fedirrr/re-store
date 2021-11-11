@@ -14,7 +14,6 @@ const ShopHeader = ({numItems, total}) => {
                     <i className='cart-icon fa fa-shopping-cart'></i>
                     {numItems} items (${total})
                 </div>
-
             </Link>
         </header>
     );

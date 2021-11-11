@@ -10,6 +10,7 @@
     padding-left: 1rem;
 }
 .shop-header .shopping-cart {
+    color: black;
     align-self: center;
     font-size:1.3rem ;
     padding-right: 1rem;
@@ -18,4 +19,5 @@
     font-size: 2rem;
     color: cadetblue;
     margin-right: 10px;
+    margin-top: 10px;
 }
