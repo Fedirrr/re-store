@@ -1,0 +1,13 @@
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 0;
+    list-style: none;
+}
+
+.book-list li {
+    flex-basis: calc(33.33% - 10px);
+    margin: 5px;
+    box-sizing: border-box;
+}
